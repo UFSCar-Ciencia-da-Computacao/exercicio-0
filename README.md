@@ -13,7 +13,7 @@ Imprimir a mensagem "Hello, World!" no console.
 - Dentro da classe, crie um método chamado main, que é o ponto de entrada para o programa em Java.
 - Dentro do método main, escreva um comando para imprimir a mensagem "Hello, World!" no console.
 - Compile e execute o programa para verificar se a mensagem é exibida corretamente.
-- 
+
 ## Dicas
 - Certifique-se de que o nome da classe esteja escrito exatamente como especificado no enunciado, com letras maiúsculas e minúsculas corretas.
 - Utilize o comando System.out.println para imprimir a mensagem no console.
